@@ -1,0 +1,34 @@
+{
+  "id": "/",
+  "name": "Ciencias de la Creación",
+  "short_name": "Ciencias de ",
+  "description": "Explora, experimenta y aprende ciencias a tu ritmo.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f8fc",
+  "theme_color": "#f4f8fc",
+  "icons": [
+    {
+      "src": "/icon-192.png?v=1794842391852",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png?v=1794842391852",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/maskable-192.png?v=1794842391852",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/maskable-512.png?v=1794842391852",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
